@@ -15,34 +15,83 @@ body{
 }
 
 .button1-salud {
-	background-color: white; 
+	background-color: green; 
 	color: black; 
-	border: 2px solid #4CAF50;
-	height: 10px;
-	width: 15px;
+	border: 200px solid #4CAF50;
+	height: 100px;
+	width: 150px;
+	top : 40px;
+    right : 60px;
 }
 
 .button1-salud:hover {
 	background-color: #4CAF50;
 	color: white;
+	height: 100px;
+	width: 150px;
+	top : 40px;
+    right : 60px;
   	
 }
 
-.button1-salud-texto {
-	background-color: red; 
+.button2-salud-texto {
+	background-color: green; 
 	color: black; 
-	border: 2px solid red;
+	height: 100px;
+	width: 150px;
+	top : 40px;
+    right : 100px;
+}
+
+.button2-salud-texto:hover {
+	background-color: green;
+	color: black;
+	height: 100px;
+	width: 150px;
+	top : 40px;
+    right : 100px;
+  	
+}
+
+.button3-innovacion {
+	background-color: rgb(6, 42, 250); 
+	color: black; 
+	top : 40px;
+    right : 100px;
+	height: 100px;
+	width: 150px;
+	
+}
+
+.button3-innovacion:hover {
+	background-color: rgb(6, 42, 250);
+	color: black;
+	top : 40px;
+    right : 100px;
+	height: 100px;
+	width: 150px;
+	
+}
+
+
+.button4-innovacion-texto {
+	background-color: rgb(6, 42, 250); 
+	color: black; 
 	height: 10px;
 	width: 15px;
+	top : 40px;
+    right : 100px;
 }
 
-.button1-salud-texto:hover {
-	background-color: red;
-	color: red;
+.button4-innovacion-texto:hover {
+	background-color: rgb(6, 42, 250);
+	color: black;
+	top : 40px;
+    right : 100px;
   	
 }
 
-.button2-deportes {
+.button5-Geek {
 	background-color: white; 
 	color: black; 
 	border: 2px solid #008CBA;
@@ -50,10 +99,63 @@ body{
 	width: 50px;
 }
 
-.button2-deportes:hover {
-	background-color: #008CBA;
-	color: white;
+.button5-Geek:hover {
+	background-color: white;
+	color: black;
   
+}
+.button6-Geek-texto {
+	background-color: white; 
+	color: black; 
+	height: 100px;
+	width: 150px;
+	top : 40px;
+    right : 100px;
+}
+
+.button6-Geek-texto:hover {
+	background-color: white;
+	color: black;
+	height: 100px;
+	width: 150px;
+	top : 40px;
+    right : 100px;
+  	
+}
+
+.button7-Deportes {
+	background-color: yellow; 
+	color: black; 
+	top : 40px;
+    right : 150px;
+	height: 30px;
+	width: 50px;
+}
+
+.button7-Deportes:hover {
+	background-color: yellow;
+	color: white;
+	height: 30px;
+	width: 50px;
+	top : 40px;
+    right : 150px;
+
+}
+.button8-Deportes-texto {
+	background-color: yellow; 
+	color: black; 
+	height: 10px;
+	width: 15px;
+	top : 40px;
+    right : 160px;
+}
+
+.button8-Deportes-texto:hover {
+	background-color: yellow;
+	color: black;
+	top : 40px;
+    right : 160px;
+  	
 }
 
 p{
