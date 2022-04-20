@@ -6,8 +6,15 @@ body{
 	background: #d96565;
 }
 
-.img-centro{
+.center{
+	display: flex;
+	justify-content: center;
+  	align-items: center;
+  	height: 200px;
+  	border: 3px solid green; 
+}
 
+.img-centro{
   	margin: 10px auto 10px;
   	height: 300px;
   	width: 800px;
@@ -15,61 +22,64 @@ body{
 }
 
 .button1-salud {
-	background-color: green; 
+	margin: 10px auto 10px;
+	background-color: transparent;
 	color: black; 
-	border: 200px solid #4CAF50;
-	height: 100px;
-	width: 150px;
+	height: 150px;
+	width: 250px;
 	top : 40px;
     right : 60px;
 }
 
 .button1-salud:hover {
-	background-color: #4CAF50;
-	color: white;
-	height: 100px;
-	width: 150px;
+	background-color: transparent;
+	color: black; 
+	height: 150px;
+	width: 250px;
 	top : 40px;
     right : 60px;
   	
 }
 
 .button2-salud-texto {
+	
 	background-color: green; 
 	color: black; 
-	height: 100px;
-	width: 150px;
+	height: 150px;
+	width: 250px;
 	top : 40px;
-    right : 100px;
+    right : 60px;
 }
 
 .button2-salud-texto:hover {
 	background-color: green;
 	color: black;
-	height: 100px;
-	width: 150px;
+	height: 150px;
+	width: 250px;
 	top : 40px;
-    right : 100px;
+    right : 60px;
   	
 }
 
 .button3-innovacion {
-	background-color: rgb(6, 42, 250); 
+	margin: 10px auto 10px;
+	background-color: transparent;
 	color: black; 
+	height: 150px;
+	width: 250px;
 	top : 40px;
-    right : 100px;
-	height: 100px;
-	width: 150px;
+    right : 60px;
 	
 }
 
 .button3-innovacion:hover {
-	background-color: rgb(6, 42, 250);
-	color: black;
+	margin: 10px auto 10px;
+	background-color: transparent;
+	color: black; 
+	height: 150px;
+	width: 250px;
 	top : 40px;
-    right : 100px;
-	height: 100px;
-	width: 150px;
+    right : 60px;
 	
 }
 
@@ -77,8 +87,8 @@ body{
 .button4-innovacion-texto {
 	background-color: rgb(6, 42, 250); 
 	color: black; 
-	height: 100px;
-	width: 150px;
+	height: 150px;
+	width: 250px;
 	top : 40px;
     right : 100px;
 }
@@ -86,29 +96,38 @@ body{
 .button4-innovacion-texto:hover {
 	background-color: rgb(6, 42, 250);
 	color: black;
+	height: 150px;
+	width: 250px;
 	top : 40px;
     right : 100px;
   	
 }
 
 .button5-Geek {
-	background-color: white; 
+	margin: 10px auto 10px;
+	background-color: transparent;
 	color: black; 
-	border: 2px solid #008CBA;
-	height: 30px;
-	width: 50px;
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 60px;
 }
 
 .button5-Geek:hover {
-	background-color: white;
-	color: black;
+	margin: 10px auto 10px;
+	background-color: transparent;
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 60px;
   
 }
 .button6-Geek-texto {
 	background-color: white; 
 	color: black; 
-	height: 100px;
-	width: 150px;
+	height: 150px;
+	width: 250px;
 	top : 40px;
     right : 100px;
 }
@@ -116,36 +135,39 @@ body{
 .button6-Geek-texto:hover {
 	background-color: white;
 	color: black;
-	height: 100px;
-	width: 150px;
+	height: 150px;
+	width: 250px;
 	top : 40px;
     right : 100px;
   	
 }
 
 .button7-Deportes {
-	background-color: yellow; 
+	margin: 10px auto 10px;
+	background-color: transparent;
 	color: black; 
+	height: 150px;
+	width: 250px;
 	top : 40px;
-    right : 150px;
-	height: 30px;
-	width: 50px;
+    right : 60px;
 }
 
 .button7-Deportes:hover {
-	background-color: yellow;
-	color: white;
-	height: 30px;
-	width: 50px;
+	margin: 10px auto 10px;
+	background-color: transparent;
+	color: black; 
+	height: 150px;
+	width: 250px;
 	top : 40px;
-    right : 150px;
+    right : 60px;
 
 }
+
 .button8-Deportes-texto {
 	background-color: yellow; 
 	color: black; 
-	height: 100px;
-	width: 150px;
+	height: 150px;
+	width: 250px;
 	top : 40px;
     right : 160px;
 }
@@ -153,6 +175,8 @@ body{
 .button8-Deportes-texto:hover {
 	background-color: yellow;
 	color: black;
+	height: 150px;
+	width: 250px;
 	top : 40px;
     right : 160px;
   	
