@@ -10,6 +10,22 @@ Arial, sans-serif;
     font-size: 6rem;
 }
 
+h1{
+    text-shadow: black;
+    color:white;
+    font-family: Helvetica,
+Arial, sans-serif;
+    font-size: 5rem;
+}
+
+h3{
+    text-shadow: black;
+    color:white;
+    font-family: Helvetica,
+Arial, sans-serif;
+    font-size: 3rem;
+}
+
 p{
     text-shadow: white;
     color:rgb(255, 255, 255);
