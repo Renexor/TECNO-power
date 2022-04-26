@@ -1,0 +1,191 @@
+body{
+	background: #050303;
+}
+.imagenes{
+	height: 150px;
+	width: 250px;
+}
+.center{
+	display: flex;
+	justify-content: center;
+  	align-items: center;
+  	height: 200px;
+  	border: 3px solid rgb(0, 0, 0); 
+}
+
+.img-centro{
+  	margin: 10px auto 10px;
+  	height: 300px;
+  	width: 800px;
+  	display: block;
+}
+
+.button1-salud {
+	margin: 10px auto 10px;
+	
+	display:block;
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 60px;
+}
+
+.button1-salud:hover {
+	background-color: transparent;
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 60px;
+  	
+}
+
+.button2-salud-texto {
+	
+	background-color: green; 
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 60px;
+    margin-right: 10px;
+}
+
+.button2-salud-texto:hover {
+	background-color: green;
+	color: black;
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 60px;
+    margin-right: 10px;
+  	
+}
+
+.button3-innovacion {
+	margin: 10px auto 10px;
+	background-color: transparent;
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 60px;
+	
+}
+
+.button3-innovacion:hover {
+	margin: 10px auto 10px;
+	background-color: transparent;
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 60px;
+	
+}
+
+
+.button4-innovacion-texto {
+	background-color: rgb(6, 173, 250); 
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 100px;
+    margin-right: 10px;
+}
+
+.button4-innovacion-texto:hover {
+	background-color: rgb(6, 173, 250);
+	color: black;
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 100px;
+    margin-right: 10px;
+  	
+}
+
+.button5-Geek {
+	margin: 10px auto 10px;
+	background-color: transparent;
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 60px;
+}
+
+.button5-Geek:hover {
+	margin: 10px auto 10px;
+	background-color: transparent;
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 60px;
+  
+}
+.button6-Geek-texto {
+	background-color: white; 
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 100px;
+    margin-right: 10px;
+}
+
+.button6-Geek-texto:hover {
+	background-color: white;
+	color: black;
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 100px;
+    margin-right: 10px;
+  	
+}
+
+.button7-Deportes {
+	margin: 10px auto 10px;
+	background-color: transparent;
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 60px;
+}
+
+.button7-Deportes:hover {
+	margin: 10px auto 10px;
+	background-color: transparent;
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 60px;
+
+}
+
+.button8-Deportes-texto {
+	background-color: yellow; 
+	color: black; 
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 160px;
+    margin-right: 10px;
+}
+
+.button8-Deportes-texto:hover {
+	background-color: yellow;
+	color: black;
+	height: 150px;
+	width: 250px;
+	top : 40px;
+    right : 160px;
+    margin-right: 10px;
+  	
+}
